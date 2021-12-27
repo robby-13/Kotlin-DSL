@@ -1,3 +1,8 @@
 Internal DSL written in Kotlin to read more-so like English rather than code. 
 The objective of the DSL is to be able to schedule a meeting with details 
 including meeting name, start and end times, date, and participants.
+
+Program was written in Kotlin via IntelliJ IDEA IDE inside a
+Gradle build environment. Files included are Main, Gradle
+Build files, as well as a Test file which tests every single
+line of the DSL to verify the expected output. 
